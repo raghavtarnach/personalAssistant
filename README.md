@@ -1,4 +1,3 @@
-# personalAssistant
 ## requirements
 
 certifi==2017.11.5
